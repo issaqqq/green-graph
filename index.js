@@ -12,7 +12,7 @@ const markCommit = (x, y) => {
     .add(x, "w")
     .add(y, "d")
     .format();
-
+   
     const data = {
         date: date,
     };
