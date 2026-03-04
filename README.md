@@ -32,6 +32,11 @@ Follow these steps to set up the project on your local machine.
     npm install moment simple-git random
     ```
 
+2.  **Running**  
+    ```
+    node index.js
+    ```
+
 ## 📦 Dependencies
 
 This project relies on the following npm packages:
@@ -44,4 +49,4 @@ This project relies on the following npm packages:
 ## ⚙️ Configuration
 
 1.  **Commit Script:** Ensure you have your main JavaScript entry point (e.g., `index.js`) configured to manage your commits.
-2.  **Data Store:** The script uses a JSON file (e.g., `data.json`) to store commit timestamp data.
+2.  **Data Store:** The script uses a JSON file (eg, `data.json`) to store commit timestamp data.
